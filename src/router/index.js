@@ -3,10 +3,10 @@ import LocalStorage from "@/util/local_storage";
 
 import LandingPage from '@/components/landingpage/Landingpage';
 import HomePage from "@/components/homepage/HomePage";
-import SurveyPage from "@/views/SurveyPage";
-import ComplaintPage from "@/views/ComplaintPage";
-import SurveyExplanationPage from "@/views/SurveyExplanationPage";
-import SurveyEndingPage from "@/views/SurveyEndingPage";
+import SurveyPage from "@/components/SurveyPage";
+import ComplaintPage from "@/components/ComplaintPage";
+import SurveyExplanationPage from "@/components/SurveyExplanationPage";
+import SurveyEndingPage from "@/components/SurveyEndingPage";
 
 const routes = [
     {
