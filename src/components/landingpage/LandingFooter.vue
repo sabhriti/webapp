@@ -4,7 +4,7 @@
     </div>
 
     <div class="language-changer">
-        <LanguageSwitcher/>
+      <LanguageSwitcher/>
     </div>
   </nav>
 </template>
@@ -26,6 +26,5 @@ export default {
   display: flex;
   vertical-align: center;
 }
-
 
 </style>

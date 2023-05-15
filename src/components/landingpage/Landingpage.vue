@@ -40,4 +40,10 @@ body {
   height: 70px;
   width: 100%;
 }
+
+.navbar {
+  background: radial-gradient(122.27% 198.92% at -22.27% -27.38%, #ee3668 0%, #ee3668 100%);
+}
+
+
 </style>
