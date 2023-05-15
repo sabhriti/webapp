@@ -1,7 +1,7 @@
 name: webapp
-title: Sabhriti Web Application
+title: Sabhriti Webapp
 version: 1.0
 prerelease: -beta.1
+start_page: index.adoc
 nav:
-- modules/technical/index.adoc
-- modules/user-manual/index.adoc
+- modules/ROOT/nav.adoc

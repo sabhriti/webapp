@@ -1,4 +1,4 @@
-= measuring worker wellbeing
+= dashboard
 
 == Project setup
 
